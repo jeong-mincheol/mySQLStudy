@@ -1,0 +1,2 @@
+# mySQLStudy
+use heidiSQL
